@@ -27,18 +27,6 @@
         <td><audio controls="" ><source src="resources/audio/wo_audio_pt/4.mp3" type="audio/wav"></audio></td>
         <td><audio controls="" ><source src="resources/audio/wo_audio_text_pt/4.mp3" type="audio/wav"></audio></td>
         <td><audio controls="" ><source src="resources/audio/wo_text_pt/4.mp3" type="audio/wav"></audio></td>
-        <td></td>
     </tr>
     </tbody>
     </table>
-<!-- 
-<audio controls="" ><source src="wav/CSDEng_046_a_004.wav" type="audio/wav"></audio> 
-<audio controls="" ><source src="wav/CSDEng_046_a_004.wav" type="audio/wav"></audio>
-<audio controls="" ><source src="wav/CSDEng_046_a_004.wav" type="audio/wav"></audio>
-<table> -->
-
-
-
-    
-    
-    
