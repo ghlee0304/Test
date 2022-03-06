@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 1. test
-    <table style='width: 100%;'>
+    <table>
     <thead>
     <tr>
         <th></th>
