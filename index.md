@@ -2,15 +2,6 @@
 
 1. test2
     <table style='width: 100%;'>
-    <thead>
-    <tr>
-        <th></th>
-        <th>GT</th>
-        <th>GT(voc.)</th>
-        <th>FastSpeech</th>
-        <th>FastSpeech 2</th>
-    </tr>
-    </thead>
     <tbody>
     <tr>
         <th scope="row">1</th> <td><audio controls="" ><source src="wav/CSDEng_046_a_004.wav" type="audio/wav"></audio></td>
