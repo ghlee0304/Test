@@ -16,6 +16,7 @@
         <th scope="row">1</th>
         <td><audio controls="" ><source src="resources/audio/gt/4.mp3" type="audio/wav"></audio></td>
         <td><audio controls="" ><source src="resources/audio/gt_voc/4.mp3" type="audio/wav"></audio></td>
+        <th scope="row">3</th>
         <td><audio controls="" ><source src="resources/audio/fs/4.mp3" type="audio/wav"></audio></td>
         <td><audio controls="" ><source src="resources/audio/fs2/4.mp3" type="audio/wav"></audio></td>
     </tr>
@@ -25,6 +26,7 @@
         <th scope="row">2</th>
         <td><audio controls="" ><source src="resources/audio/main/4.mp3" type="audio/wav"></audio></td>
         <td><audio controls="" ><source src="resources/audio/wo_audio_pt/4.mp3" type="audio/wav"></audio></td>
+        <th scope="row">2</th>
         <td><audio controls="" ><source src="resources/audio/wo_audio_text_pt/4.mp3" type="audio/wav"></audio></td>
         <td><audio controls="" ><source src="resources/audio/wo_text_pt/4.mp3" type="audio/wav"></audio></td>
     </tr>
