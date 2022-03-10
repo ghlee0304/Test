@@ -2,7 +2,10 @@
 
 ### 안녕하세요 MOS TEST에 응해주셔서 감사합니다. 
 
-1. test2
+1. MOS 테스트 
+    - 첫번째 테스트는 naturalness와 quality를 위한 평가 입니다. 
+    - wav 파일을 듣고 naturalness와 quality에 각각 점수를 기입해주세요! 
+
     <table style='width: 100%;'>
     <tbody>
         <tr>
