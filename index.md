@@ -2,11 +2,11 @@
 
 ### 안녕하세요 MOS TEST에 응해주셔서 감사합니다. 
 
-1. MOS 테스트 
+#### 1-1) 시작합니다!
     - 첫번째 테스트는 naturalness와 quality를 위한 평가 입니다. 
     - wav 파일을 듣고 naturalness와 quality에 각각 점수를 기입해주세요! 
 
-    <table style='width: 100%;'>
+<table style='width: 100%;'>
     <tbody>
         <tr>
             <th scope="row">1</th> <td><audio controls="" ><source src="wav/mos/ballad/GT_05_balladw01_atTheEnd_007.wav" type="audio/wav"></audio></td>
@@ -84,6 +84,10 @@
             <th scope="row">33</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger2Aug_05_balladw05_atTheEnd_007.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
+</table>
+
+#### 1-2) 절반 왔습니다! 화이팅! 
+<table style='width: 100%;'>
     <tbody>
         <tr>
             <th scope="row">34</th> <td><audio controls="" ><source src="wav/mos/ballad/GT_05_balladw04_atTheEnd_010.wav" type="audio/wav"></audio></td>
@@ -183,4 +187,4 @@
         </tr>
     </tbody>
 
-    </table>
+</table>
