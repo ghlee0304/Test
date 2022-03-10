@@ -8,7 +8,7 @@
     - 첫번째 테스트는 naturalness와 quality를 위한 평가 입니다. 
     - wav 파일을 듣고 naturalness와 quality에 각각 점수를 기입해주세요! 
 
-<table style='width: 100%;'>
+<table style='width: 80%;'>
 <tbody>
 	<tr>
 		<th scope="row">1</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger2Aug_05_balladw01_atTheEnd_007.wav" type="audio/wav"></audio></td>
@@ -88,7 +88,7 @@
 </tbody>
 </table>
 
-<table style='width: 100%;'>
+<table style='width: 80%;'>
 <tbody>
 	<tr>
 		<th scope="row">34</th> <td><audio controls="" ><source src="wav/mos/ballad/GT_05_balladw04_atTheEnd_010.wav" type="audio/wav"></audio></td>
@@ -189,7 +189,7 @@
 </tbody>
 </table>
 
-<table style='width: 100%;'>
+<table style='width: 80%;'>
 <tbody>
 	<tr>
 		<th scope="row">76</th> <td><audio controls="" ><source src="wav/mos/child/NSinger_46_thirty_014.wav" type="audio/wav"></audio></td>
