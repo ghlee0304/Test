@@ -86,9 +86,6 @@
 		<th scope="row">33</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger_05_balladw05_atTheEnd_007.wav" type="audio/wav"></audio></td>
 	</tr>
 </tbody>
-</table>
-
-<table style='width: 80%;'>
 <tbody>
 	<tr>
 		<th scope="row">34</th> <td><audio controls="" ><source src="wav/mos/ballad/GT_05_balladw04_atTheEnd_010.wav" type="audio/wav"></audio></td>
@@ -96,6 +93,10 @@
 		<th scope="row">36</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger_05_balladw04_atTheEnd_010.wav" type="audio/wav"></audio></td>
 	</tr>
 </tbody>
+</table>
+
+#### 1-1) 시작합니다!
+<table style='width: 80%;'>
 <tbody>
 	<tr>
 		<th scope="row">37</th> <td><audio controls="" ><source src="wav/mos/ballad/GT_05_balladw05_atTheEnd_011.wav" type="audio/wav"></audio></td>
