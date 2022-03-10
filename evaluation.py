@@ -31,13 +31,13 @@ for c in child_dirs:
         NSinger2_dict[data_name] = "wav/mos/child/"+c
 
 cnt = 1
-dict_list = [GT_dict, NSinger_dict, NSinger2_dict]
+dict_dict = {"GT": GT_dict, "NSinger": NSinger_dict, "NSinger2": NSinger2_dict}
 for idx, key in enumerate(GT_dict.keys()):
     np.random.seed(idx)
-    perm = np.random.permutation(3)
-    dict1 = dict_list[perm[0]]
-    dict2 = dict_list[perm[1]]
-    dict3 = dict_list[perm[2]]
+    perm = np.random.permutation(["GT", "NSinger", "NSinger2"])
+    dict1 = dict_dict[perm[0]]
+    dict2 = dict_dict[perm[1]]
+    dict3 = dict_dict[perm[2]]
     
     if idx == 0:
         with open("test.md", 'w') as f:
