@@ -25,11 +25,11 @@ for idx, key in enumerate(GT_dict.keys()):
         with open("test.md", 'w') as f:
             f.write('<tbody>\n')
             f.write('\t<tr>\n')
-            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src={} type="audio/wav"></audio></td>\n'.format(cnt, GT_dict[key]))
+            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, GT_dict[key]))
             cnt += 1
-            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src={} type="audio/wav"></audio></td>\n'.format(cnt, NSinger_dict[key]))
+            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, NSinger_dict[key]))
             cnt += 1
-            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src={} type="audio/wav"></audio></td>\n'.format(cnt, NSinger2_dict[key]))
+            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, NSinger2_dict[key]))
             cnt += 1
             f.write('\t</tr>\n')
             f.write('</tbody>\n')
@@ -38,12 +38,11 @@ for idx, key in enumerate(GT_dict.keys()):
         with open("test.md", 'a') as f:
             f.write('<tbody>\n')
             f.write('\t<tr>\n')
-            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src={} type="audio/wav"></audio></td>\n'.format(cnt, GT_dict[key]))
+            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, GT_dict[key]))
             cnt += 1
-            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src={} type="audio/wav"></audio></td>\n'.format(cnt, NSinger_dict[key]))
+            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, NSinger_dict[key]))
             cnt += 1
-            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src={} type="audio/wav"></audio></td>\n'.format(cnt, NSinger2_dict[key]))
+            f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, NSinger2_dict[key]))
             cnt += 1
             f.write('\t</tr>\n')
             f.write('</tbody>\n')
-    pdb.set_trace()    
