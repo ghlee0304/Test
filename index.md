@@ -9,7 +9,7 @@
     - wav 파일을 듣고 naturalness와 quality에 각각 점수를 기입해주세요.
     - 먼저 발라드 장르의 노래를 들으실 수 있는데 음이 불안정하거나 어색하면 naturalness 점수를 낮게 책정해주시면 됩니다. 
 
-<table style='width: 80%;'>
+<table style='width: 70%;'>
 <tbody>
 	<tr>
 		<th scope="row">1</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger2Aug_05_balladw01_atTheEnd_007.wav" type="audio/wav"></audio></td>
@@ -192,7 +192,7 @@
     - 두 명의 가수가 있는데 하나는 완전 평탄한 음을 가지고 있고 다른 한 명은 약간의 가성과 비브라토를 가지고 있습니다. 
     - 만약 판정이 어려우실 경우 3개 샘플씩 들으시면서 상대적으로 어색하다고 느껴지면 naturalness의 점수를 낮게 주시면 됩니다. 
 
-<table style='width: 80%;'>
+<table style='width: 70%;'>
 <tbody>
 	<tr>
 		<th scope="row">76</th> <td><audio controls="" ><source src="wav/mos/child/NSinger_46_thirty_014.wav" type="audio/wav"></audio></td>
