@@ -86,6 +86,9 @@
 		<th scope="row">33</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger_05_balladw05_atTheEnd_007.wav" type="audio/wav"></audio></td>
 	</tr>
 </tbody>
+</table>
+
+<table style='width: 100%;'>
 <tbody>
 	<tr>
 		<th scope="row">34</th> <td><audio controls="" ><source src="wav/mos/ballad/GT_05_balladw04_atTheEnd_010.wav" type="audio/wav"></audio></td>
@@ -184,6 +187,9 @@
 		<th scope="row">75</th> <td><audio controls="" ><source src="wav/mos/ballad/NSinger2Aug_20_balladw04_sigh_016.wav" type="audio/wav"></audio></td>
 	</tr>
 </tbody>
+</table>
+
+<table style='width: 100%;'>
 <tbody>
 	<tr>
 		<th scope="row">76</th> <td><audio controls="" ><source src="wav/mos/child/NSinger_46_thirty_014.wav" type="audio/wav"></audio></td>

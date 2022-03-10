@@ -32,6 +32,7 @@ for c in child_dirs:
 
 cnt = 1
 dict_dict = {"GT": GT_dict, "NSinger": NSinger_dict, "NSinger2": NSinger2_dict}
+index_dict = {"GT": list(), "NSinger": list(), "NSinger2": list()}
 for idx, key in enumerate(GT_dict.keys()):
     np.random.seed(idx)
     perm = np.random.permutation(["GT", "NSinger", "NSinger2"])
@@ -44,10 +45,13 @@ for idx, key in enumerate(GT_dict.keys()):
             f.write('<tbody>\n')
             f.write('\t<tr>\n')
             f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, dict1[key]))
+            index_dict[perm[0]].append(cnt-1)
             cnt += 1
             f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, dict2[key]))
+            index_dict[perm[0]].append(cnt-1)
             cnt += 1
             f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, dict3[key]))
+            index_dict[perm[0]].append(cnt-1)
             cnt += 1
             f.write('\t</tr>\n')
             f.write('</tbody>\n')
@@ -57,10 +61,13 @@ for idx, key in enumerate(GT_dict.keys()):
             f.write('<tbody>\n')
             f.write('\t<tr>\n')
             f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, dict1[key]))
+            index_dict[perm[0]].append(cnt-1)
             cnt += 1
             f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, dict2[key]))
+            index_dict[perm[0]].append(cnt-1)
             cnt += 1
             f.write('\t\t<th scope="row">{}</th> <td><audio controls="" ><source src="{}" type="audio/wav"></audio></td>\n'.format(cnt, dict3[key]))
+            index_dict[perm[0]].append(cnt-1)
             cnt += 1
             f.write('\t</tr>\n')
             f.write('</tbody>\n')
