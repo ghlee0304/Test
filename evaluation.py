@@ -13,11 +13,11 @@ for d in ballad_dirs:
     model_name = d.split("_")[0]
     data_name = d[len(model_name)+1:]
     if model_name == "GT":
-        GT_dict[data_name] = "wav/mod/ballad/"+d
+        GT_dict[data_name] = "wav/mos/ballad/"+d
     elif model_name == "NSinger":
-        NSinger_dict[data_name] = "wav/mod/ballad/"+d
+        NSinger_dict[data_name] = "wav/mos/ballad/"+d
     elif model_name == "NSinger2Aug":
-        NSinger2_dict[data_name] = "wav/mod/ballad/"+d
+        NSinger2_dict[data_name] = "wav/mos/ballad/"+d
 
 cnt = 1
 for idx, key in enumerate(GT_dict.keys()):
