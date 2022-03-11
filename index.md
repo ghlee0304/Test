@@ -7,6 +7,8 @@
     - 첫 번째 테스트는 naturalness와 quality를 위한 평가 입니다. 
     - wav 파일을 듣고 naturalness와 quality에 각각 점수를 기입해주세요.
     - 먼저 발라드 장르의 노래를 들으실 수 있는데 음이 불안정하거나 어색하면 naturalness 점수를 낮게 책정해주시면 됩니다. 
+	- 음질 평가 페이지 : https://docs.google.com/forms/d/e/1FAIpQLSeKr6TdG9QsEPwom04VXcUKvZ1vonvPk5FhFHEujT5J7cOQVQ/viewform?usp=sf_link
+	- 자연스러움 평가 페이지 : https://docs.google.com/forms/d/e/1FAIpQLSdTAHZGvNkIfKv1seaXpZypRGQwb7KxiP4tgT3gpw2OmBfqog/viewform?usp=sf_link
 
 <table style='width: 120%;'>
 <tbody>
