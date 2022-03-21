@@ -3,6 +3,12 @@
 ### 안녕하세요 MOS TEST에 응해주셔서 감사합니다. 
 ### 총 135개의 파일이 있습니다.
 
+<td><audio controls="" ><source src="wav/mos1.wav" type="audio/wav"></audio></td>
+<td><audio controls="" ><source src="wav/mos2.wav" type="audio/wav"></audio></td>
+<td><audio controls="" ><source src="wav/mos3.wav" type="audio/wav"></audio></td>
+<td><audio controls="" ><source src="wav/mos4.wav" type="audio/wav"></audio></td>
+<td><audio controls="" ><source src="wav/mos5.wav" type="audio/wav"></audio></td>
+
 #### 1-1) 시작합니다!
     - 첫 번째 테스트는 naturalness와 quality를 위한 평가 입니다. 
     - wav 파일을 듣고 naturalness와 quality에 각각 점수를 기입해주세요.
