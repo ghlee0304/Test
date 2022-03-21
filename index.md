@@ -3,11 +3,11 @@
 ### 안녕하세요 MOS TEST에 응해주셔서 감사합니다. 
 ### 총 135개의 파일이 있습니다.
 
-<td><audio controls="" ><source src="wav/mos1.wav" type="audio/wav"></audio></td>
-<td><audio controls="" ><source src="wav/mos2.wav" type="audio/wav"></audio></td>
-<td><audio controls="" ><source src="wav/mos3.wav" type="audio/wav"></audio></td>
-<td><audio controls="" ><source src="wav/mos4.wav" type="audio/wav"></audio></td>
-<td><audio controls="" ><source src="wav/mos5.wav" type="audio/wav"></audio></td>
+<td>MOS 1점 : <audio controls="" ><source src="wav/mos1.wav" type="audio/wav"></audio></td>
+<td>MOS 2점 : <audio controls="" ><source src="wav/mos2.wav" type="audio/wav"></audio></td>
+<td>MOS 3점 : <audio controls="" ><source src="wav/mos3.wav" type="audio/wav"></audio></td>
+<td>MOS 4점 : <audio controls="" ><source src="wav/mos4.wav" type="audio/wav"></audio></td>
+<td>MOS 5점 : <audio controls="" ><source src="wav/mos5.wav" type="audio/wav"></audio></td>
 
 #### 1-1) 시작합니다!
     - 첫 번째 테스트는 naturalness와 quality를 위한 평가 입니다. 
